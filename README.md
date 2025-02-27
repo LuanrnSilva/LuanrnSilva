@@ -2,7 +2,7 @@
 
 ##
 
-Me chamo Luan Renato Nascimento da Silva, tenho 22 anos e sou natural de Recife, Pernambuco. Concluí o ensino médico no IFPE, com o curso técnico em eletrônica. Atualmente, estou cursando Ciência da Computação na Uninassau. Estou buscando me capacitar e melhorar como desenvolvedor back-end com foco na linguagem Java Spring boot.
+Me chamo Luan Renato Nascimento da Silva, tenho 22 anos e sou natural de Recife, Pernambuco. Concluí o ensino médico no IFPE, com o curso técnico em eletrônica. Atualmente, estou cursando Ciência da Computação na Uninassau. Estou buscando me capacitar e melhorar como desenvolvedor back-end com foco na linguagem Java e utilizando o framework Spring boot.
 
 ##
 
