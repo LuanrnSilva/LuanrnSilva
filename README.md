@@ -2,7 +2,7 @@
 
 ##
 
-Me chamo Luan Renato Nascimento da Silva, tenho 22 anos e sou natural de Recife, Pernambuco. Sou estudante de Ciência da Computação na Uninassau e técnico em eletrônica pelo IFPE. Atualmente, estou focado no desenvolvimento back-end, especializando-me em Java e no framework Spring Boot. Tenho experiência na criação de APIs REST, persistência de dados com JPA/Hibernate e aplicação de boas práticas como SOLID e design patterns. Busco sempre aprimorar minhas habilidades e acompanhar as melhores tecnologias do mercado para desenvolver soluções eficientes e escaláveis.
+Me chamo Luan Renato Nascimento da Silva, tenho 22 anos e sou natural de Recife, Pernambuco. Sou estudante de Ciência da Computação na Uninassau e técnico em eletrônica pelo IFPE. Atualmente, estou focado no desenvolvimento back-end, especializando-me em Java e no framework Spring Boot e Quarkus. Tenho experiência na criação de APIs REST, persistência de dados com JPA/Hibernate e aplicação de boas práticas como SOLID e design patterns. Busco sempre aprimorar minhas habilidades e acompanhar as melhores tecnologias do mercado para desenvolver soluções eficientes e escaláveis.
 
 ##
 
@@ -13,8 +13,12 @@ Me chamo Luan Renato Nascimento da Silva, tenho 22 anos e sou natural de Recife,
 <div style="display: inline_block"><br>
   <img align="center alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg">
   <img align="center alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" />
+  <img align="center alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
+
 </div>
 
   ##
