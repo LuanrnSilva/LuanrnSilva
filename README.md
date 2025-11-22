@@ -6,7 +6,7 @@ Me chamo Luan Renato Nascimento da Silva, tenho 22 anos e sou natural de Recife,
 
 ##
 
-- 🔭 Hoje trabalho como estagiário em suporte técnico
+- 🔭 Hoje trabalho como desenvolvedor de software
 - 🌱 Estudando Java Spring boot
 - ⚡ Estou me capacitando a cada dia para melhorar como desenvolvedor back-end.
 
